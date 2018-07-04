@@ -213,7 +213,10 @@ module.exports = {
   externals: {
     'react': 'React', // Case matters here
     'react-dom' : 'ReactDOM', // Case matters here,
-    'firebase': 'firebase'
+    'firebase': 'firebase',
+    'redux': 'Redux',
+    'react-redux': 'ReactRedux',
+    'redux-thunk': 'ReduxThunk'
 	},
   module: {
     strictExportPresence: true,
