@@ -1,6 +1,6 @@
 {
   "name": "augle-react-scripts",
-  "version": "1.2.22",
+  "version": "1.2.24",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebook/create-react-app",
   "license": "MIT",
@@ -28,6 +28,7 @@
     "babel-eslint": "8.2.3",
     "babel-jest": "22.4.3",
     "babel-loader": "8.0.0-beta.0",
+    "bfj": "5.2.0",
     "augle-babel-plugin-named-asset-import": "^0.1.3",
     "augle-babel-preset-react-app": "^3.2.0",
     "case-sensitive-paths-webpack-plugin": "2.1.2",
